@@ -4,6 +4,6 @@ When importing, create a new Java Project, then import the folder into the sourc
 
 This is the output, as a GIF:
 
-NOTE: The blue text is user input.
-
 ![output](https://github.com/user-attachments/assets/33dd0882-5458-431d-af27-9ec4028fc9ea)
+
+NOTE: The blue text is user input.
